@@ -2,7 +2,7 @@
 Repository for the poster entitled 'Tracking the recovery of degraded tropical forests using repeat airborne LiDAR.'
 
 ## Contact Information
-- Email: lb16936@bristol.ac.uk
+- Email: lucybeese@googlemail.com
 - Google Scholar: https://scholar.google.com/citations?user=PtkYKcsAAAAJ&hl=en
 - University of Bristol Profile: https://www.bristol.ac.uk/people/person/Lucy-Beese-7a788016-2647-4c22-a1cd-188adc82350d/
 - LinkedIn: https://www.linkedin.com/in/lucy-beese/
