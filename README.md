@@ -1,8 +1,10 @@
 # Tracking the recovery of degraded tropical forests using repeat airborne LiDAR
-Repository for the poster entitled 'Tracking the recovery of degraded tropical forests using repeat airborne LiDAR.'
+Repository the poster presented at SilviLaser conference on 06/10/2023 entitled: 'Tracking the recovery of degraded tropical forests using repeat airborne LiDAR.'
+Based on the publication 'Using repeat airborne LiDAR to map the growth of individual oil palms in Malaysian Borneo during the 2015–16 El Niño'
+Available at: https://www.sciencedirect.com/science/article/pii/S1569843222003053
 
 ## Contact Information
-- Email: lucybeese@googlemail.com
+- Email: beeselucy@googlemail.com
 - Google Scholar: https://scholar.google.com/citations?user=PtkYKcsAAAAJ&hl=en
 - University of Bristol Profile: https://www.bristol.ac.uk/people/person/Lucy-Beese-7a788016-2647-4c22-a1cd-188adc82350d/
 - LinkedIn: https://www.linkedin.com/in/lucy-beese/
@@ -11,7 +13,6 @@ Repository for the poster entitled 'Tracking the recovery of degraded tropical f
 - Linktree: https://linktr.ee/lucybeese
 
 ## Poster References
-
 1. School of Biological Sciences, Life Sciences Building, 24 Tyndall Avenue, University of Bristol, Bristol BS8 1TQ, UK.
 2. David Attenborough Building,Pembroke Street, Cambridge, CB2 3QZ.
 3. Department of Plant Sciences, University of Oxford,OX1 3RB, UK.
